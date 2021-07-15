@@ -1,0 +1,16 @@
+tzlocal\__init__.py,sha256=zOXBN5IP3Nc1gNiL8aVwHAhXAYTFfkTSDJ6VdjmifCQ,168
+tzlocal\__pycache__\__init__.cpython-39.pyc,,
+tzlocal\unix.py,sha256=7dFkjHfqNz4k9F_-PseJaKHCy8uHLKYckbIydpMGXo0,6062
+tzlocal\__pycache__\unix.cpython-39.pyc,,
+tzlocal\utils.py,sha256=FYqtaomESB2nQWR8cJalSLoQ9uq7QE0Sx0Hhud1kpTM,1692
+tzlocal\__pycache__\utils.cpython-39.pyc,,
+tzlocal\win32.py,sha256=GlvUX_yS1OGEkGmHvW_A3GR5Arxr6lrn0DetVcRanKg,3265
+tzlocal\__pycache__\win32.cpython-39.pyc,,
+tzlocal\windows_tz.py,sha256=J-5L3_TUGPiyg69GhqxFnAHhiHsjrZKfkgR1WbofaLk,31441
+tzlocal\__pycache__\windows_tz.cpython-39.pyc,,
+tzlocal-2.1.dist-info\LICENSE.txt,sha256=2ZqyCa6xaq0sJckP_YPBqYHikP__dqQgoqsD4D8EG4w,1060
+tzlocal-2.1.dist-info\METADATA,sha256=CFvLexLJNXCk-hBmflVJxv7P2Izms0iDeVubwshTF1g,8227
+tzlocal-2.1.dist-info\top_level.txt,sha256=QR6vZWP520waETnkotApPQPyVh9VnjoYPoAVHLK1DrE,8
+tzlocal-2.1.dist-info\zip-safe,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+tzlocal-2.1.dist-info\SHARED,sha256=6Z9LDzCHw00igvniBwfS1E0GqN7ufR9alk5LRrF1BqQ,271
+tzlocal-2.1.dist-info\RECORD,,
