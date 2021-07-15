@@ -1,4 +1,8 @@
 *.bat
+*.log
+*.temp
 ***/.vscode
 **/.pytest_cache
 **/.idea
+/vendor
+.gitignore
