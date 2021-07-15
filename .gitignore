@@ -1,0 +1,4 @@
+*.bat
+***/.vscode
+**/.pytest_cache
+**/.idea
